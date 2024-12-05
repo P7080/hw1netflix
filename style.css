@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-image: url('./backimg.jpeg');
+}
+
+.btn button{
+    background-color: red;
+    width: 86px;
+    height: 27px;
+    border: 1px solid black;
+    border-radius: 5px;
+    gap: 10px;
+    
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    padding-right: 905px;
+
+}
+
+
+.btn{
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.content{
+    background-image: url('./nabimg.jpeg');
+    color: white;
+    text-align: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+   
+    padding: 269px 10px 24px 50px;
+}
